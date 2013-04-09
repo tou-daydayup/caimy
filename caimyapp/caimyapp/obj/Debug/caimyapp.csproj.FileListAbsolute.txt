@@ -1,0 +1,4 @@
+D:\AppHarbor\hw\caimyapp\caimyapp\bin\caimyapp.dll
+D:\AppHarbor\hw\caimyapp\caimyapp\bin\caimyapp.pdb
+D:\AppHarbor\hw\caimyapp\caimyapp\obj\Debug\caimyapp.dll
+D:\AppHarbor\hw\caimyapp\caimyapp\obj\Debug\caimyapp.pdb

@@ -11,6 +11,9 @@
     <form id="form1" runat="server">
     <div>
         这是一个测试页面!
+        <asp:Table runat ="server" BackColor="White" BorderColor="Black" BorderStyle="Ridge" BorderWidth="1px" ForeColor="Black" Height="16px" Width="199px">
+
+        </asp:Table>
     </div>
     </form>
 </body>
